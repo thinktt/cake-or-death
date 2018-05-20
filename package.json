@@ -1,0 +1,19 @@
+{
+  "name": "cake-or-death",
+  "version": "0.0.1",
+  "description": "A module to help you choose cake or death",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cake",
+    "or",
+    "death"
+  ],
+  "author": "Tobias Toland",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.19.1"
+  }
+}
